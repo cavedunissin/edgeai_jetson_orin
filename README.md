@@ -56,7 +56,7 @@ CAVEDU 出版之 Jetson Orin 系列單板電腦書籍範例與相關資源
        4.2.1 硬體介紹
        4.2.2 環境設定
        4.2.3 範例
-### 第五章：ROS2機器作業系統
+### 第五章：ROS2機器人作業系統
     5.1 ROS/ROS2
        5.1.1 ROS
        5.1.2 ROS2
@@ -67,13 +67,13 @@ CAVEDU 出版之 Jetson Orin 系列單板電腦書籍範例與相關資源
     5.5 ROS2基本節點
        5.5.1 導航
        5.5.2 地圖
-       5.5.3  分段路徑規劃與影像串流
+       5.5.3 分段路徑規劃與影像串流
        5.5.4 光達節點
     5.6 AI節點
     5.7 進階應用
        5.7.1 距離偵測搭配ZED2 
-       5.7.2  ArUco標記辨識與跟隨
-       5.7.3  攝影機標定校正
+       5.7.2 ArUco標記辨識與跟隨
+       5.7.3 攝影機標定校正
 ### 第六章：邊緣裝置結合生成式AI
     6.1 淺談生成式AI
     6.2 NVIDIA Jetson Generative AI Lab
@@ -82,10 +82,13 @@ CAVEDU 出版之 Jetson Orin 系列單板電腦書籍範例與相關資源
        6.3.3 Vision Transformers
        6.3.4 機器人與具身 
        6.3.5 圖片生成  
-       6.3.6  RAG &向量資料庫 - Jetson Copilot
-       6.3.7  聲音
-       6.3.8  Agent Studio
+       6.3.6 RAG &向量資料庫 - Jetson Copilot
+       6.3.7 聲音
+       6.3.8 Agent Studio
        
+## 勘誤
+* 第六章 Page 6-44 有兩個圖6-28，會於下一版修正(2025/03)
+
 ## 相關連結
 * 開機用 SD 卡映像檔下載：https://developer.nvidia.com/downloads/embedded/l4t/r36_release_v4.3/jp62-orin-nano-sd-card-image.zip 
 * CAVEDU 技術部落格相關文章：https://blog.cavedu.com/?s=jetson
@@ -95,6 +98,20 @@ CAVEDU 出版之 Jetson Orin 系列單板電腦書籍範例與相關資源
 <img src="https://robotkingdom.com.tw/wp-content/uploads/2023/04/NVIDIAJETSON-Orin-NANO-Developer-kit_1-scaled.jpg" width="400" alt="Jetson Orin Nano">
 
 ## 各章注意事項與安裝指令
+
+* 請見 ch03 - ch06 資料夾下 md 檔
+
+### 第三章：深度學習結合視覺辨識
+* 提供 3.1 OpenCV深度學習介紹等 py 檔
+* 3.2 Jetson Inference 相關範例於安裝完成之後即會存在於 ~/jetson-inference 路徑下，只提供執行語法與較長指令
+
+### 第四章：整合深度視覺 - 景深攝影機
+*
+
+### 第五章：ROS2機器人作業系統
+
+
+### 第六章：邊緣裝置結合生成式AI
 
 ## 各章註解
 ### 第一章：AI、神經網路與邊緣裝置

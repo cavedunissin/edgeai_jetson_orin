@@ -2,7 +2,7 @@
 CAVEDU 出版之 Jetson Orin 系列單板電腦書籍範例與相關資源
 
 ## 作者
-* 曾吉弘博士，CAVEDU教育團隊技術總監、MIT CSAIL訪問學者、國立台灣科技大學資訊工程學系助理教授(兼任)、NVIDIA Jetson AI Ambassador (白金)
+* 曾吉弘博士，CAVEDU教育團隊技術總監、MIT CSAIL訪問學者、國立台灣科技大學資訊工程學系助理教授(兼任)、[NVIDIA DLI大使白金級](https://www.nvidia.com/en-us/training/instructor-directory/bio/?instructorId=0038Z00002pvnqVQAQ)
 * 郭俊廷，CAVEDU教育團隊資深講師、NVIDIA Jetson AI Specialist
 * 楊子賢，CAVEDU教育團隊資深講師、NVIDIA Jetson AI Specialist
 

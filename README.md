@@ -207,7 +207,7 @@ CAVEDU 出版之 Jetson Orin 系列單板電腦書籍範例與相關資源
     16. ZED範例：https://www.stereolabs.com/docs/tutorials
     17. CAVEDU技術部落格ZED相關文章：https://blog.cavedu.com/?s=zed
 
-### 第五章：ROS2機器作業系統
+### 第五章：ROS2機器人作業系統
     1. RK ROS 機器人平台：https://robotkingdom.com.tw/?s=ROS2&post_type=product
     2. ROS https://www.ros.org/
     3. ROS2 https://github.com/ros2

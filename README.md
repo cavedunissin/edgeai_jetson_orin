@@ -101,18 +101,6 @@ CAVEDU 出版之 Jetson Orin 系列單板電腦書籍範例與相關資源
 
 * 請見 ch03 - ch06 資料夾下 md 檔
 
-### 第三章：深度學習結合視覺辨識
-* 提供 3.1 OpenCV深度學習介紹等 py 檔
-* 3.2 Jetson Inference 相關範例於安裝完成之後即會存在於 ~/jetson-inference 路徑下，只提供執行語法與較長指令
-
-### 第四章：整合深度視覺 - 景深攝影機
-*
-
-### 第五章：ROS2機器人作業系統
-
-
-### 第六章：邊緣裝置結合生成式AI
-
 ## 各章註解
 ### 第一章：AI、神經網路與邊緣裝置
     1. Bringing AI to the device: Edge AI chips come into their own:  https://www2.deloitte.com/cn/en/pages/technology-media-and-telecommunications/articles/tmt-predictions-2020-ai-chips.html
